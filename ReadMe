@@ -1,1 +1,5 @@
 This is a Project to learn python.
+直接将整个程序复制到一个文件夹即可运行 app.py即可使用。
+handler中增加方法。
+Model中存放对应表的类
+orm中存放ORM框架不需要修改
